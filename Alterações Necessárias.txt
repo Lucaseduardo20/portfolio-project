@@ -1,0 +1,29 @@
+
+			HOME
+1 - Trocar a Foto da página inicial para uma mais nova. OK
+2 - Trocar o subtítulo da página inicial para Front-End Developer ou algo parecido. OK
+3 - Colocar um ícone legal no título da página. OK
+
+			PORTFÓLIO
+1 - Adicionar todos os projetos que eu criei. OK
+2 - Melhorar o hover dos itens de projetos. OK
+3 - Botão de voltar ao início bugado, parece que o tamanho está em 50% da página. OK
+4 - Arrumar a responsividade dos itens da página. OK
+
+			CURRÍCULO
+1 - Atualizar a sessão de idiomas utilizando os níveis utilizando o nível de inglês B1.
+2 - Atualizar a sessão de Sobre Mim.
+3 - Atualizar a sessão de Educação.
+4 - Atualizar a sessão de Habilidades.
+5 - Atualizar a sessão de Experiência de Trabalho.
+6 - Arrumar o botão de voltar ao início pois está com o mesmo bug da página de Portfólio.
+
+
+			CONTATO
+1 - Atualizar o botão do instagram com a conta nova.
+2 - Atualizar o botão do LinkedIn com um link válido.
+3 - Criar formulário de envio de e-mail e integrar para enviar e-mail para mim.
+4 - Arrumar o botão de voltar ao início pois está com o mesmo bug da página de Portfólio.
+
+			GERAL
+1 - Criar um repositório no gitHub para esse projeto sozinho.
